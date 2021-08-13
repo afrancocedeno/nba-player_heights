@@ -44,10 +44,10 @@ node index.js 139
 
 ## Things to master
 
-* [] sort the players data
-* [] refactor using interfaces
-* [] implement a more efficient algorithm
-* [] handle repeated data (handling array size)
+* [x] sort the players data
+* [X] refactor using interfaces
+* [X] implement a more efficient algorithm
+* [X] handle repeated data (handling array size)
 
 ## Contributing
 
