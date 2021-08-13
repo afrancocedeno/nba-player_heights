@@ -1,5 +1,7 @@
 # nba-player_heights
 
+
+![NBA](https://flaticons.net/icon.php?slug_category=brand-identity&slug_icon=nba)
 A function that searches through NBA Player heights database based on user input, and match the all pairs of players whose height in inches adds up to the integer input.
 
 ## Install me
