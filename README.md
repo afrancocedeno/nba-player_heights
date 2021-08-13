@@ -14,7 +14,6 @@ npm init
 npm i axios
 npm install -D typescript
 npm i -D @types/node @types/express
-tsc --init
 ```
 
 ## Excecute me
